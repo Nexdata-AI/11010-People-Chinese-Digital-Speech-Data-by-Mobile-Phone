@@ -4,7 +4,7 @@
 ## Description
 11,010 Chinese native speakers participated in the recording with equal gender. Each speaker reads 30 sentences of 4 -8 digit number.
 
-For more details, please refer to the link: https://www.nexdata.ai/datasets/1072?source=Github
+For more details, please refer to the link: https://www.nexdata.ai/datasets/speechrecog/1072?source=Github
 
 
 ## Format
